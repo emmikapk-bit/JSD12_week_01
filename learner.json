@@ -1,0 +1,6 @@
+{
+    name: "Emmi",
+    age : "31",
+    isGraduated : false,
+    hobbies : ["Watch horror or comedy movies.","listen to music.","Sitting lost in thought."]
+};
